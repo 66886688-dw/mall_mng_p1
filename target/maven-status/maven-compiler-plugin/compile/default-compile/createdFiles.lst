@@ -1,0 +1,11 @@
+com\mall\exception\GlobalExceptionHandler.class
+com\mall\entity\Product.class
+com\mall\mapper\ProductMapper.class
+com\mall\common\Result.class
+com\mall\controller\ProductController.class
+com\mall\service\impl\ProductServiceImpl.class
+com\mall\mapper\impl\ProductMapperImpl.class
+com\mall\MallMngApplication.class
+com\mall\service\ProductService.class
+com\mall\entity\ProductStatus.class
+com\mall\exception\BusinessException.class
